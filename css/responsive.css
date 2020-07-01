@@ -1,0 +1,58 @@
+
+@media (min-width: 767px) {
+	.container{padding: 0 15px;}
+	.banner-cont {padding: 12px 0 20px;margin-top: -247px;position: absolute;right: 40px;}
+	.banner{position: relative;}
+	.header-in{padding: 10px 0;}
+	.teaching h2:after{top: 0;}
+	.degree h2:after{top: 0;}
+	.dallas h2:after{top: 0;}
+	.christian h2:after{top: 0;}
+	.christian h2{padding: 0 0 7px;}
+	.contact-form {margin: -4px 0 0;}
+	.philip  h5 span{display: inline;}
+	.philip h5 span br{display: none;}
+	.passionate-in h3{max-width: 515px;margin: 0 auto;}
+}
+@media (min-width: 991px){
+	.banner-cont{margin-top: -289px;}
+	.passionate-in h3{font-size: 1.5rem;line-height: 1.8rem}
+	.difference-cont p{font-size: 1.1rem;line-height: 1.5rem;}
+	.christian p{font-size: 1.1rem;line-height: 1.5rem;}
+}
+@media (min-width: 1025px){
+	.contact-form{float: right;width: 30%;}
+    .difference{float: left;width: 70%;}
+    .main{max-width: 1120px;margin: 0 auto;}
+    .banner{z-index: -1;}
+    .contact-form{margin: -24px 0 0;z-index: 1;}
+    .contact-in h4 span.desk-make{display: block;}
+    .program-btn{display: block;}
+    .contact-in h4{letter-spacing: 0.5px;font-size: 1.8rem;line-height: 2.0rem;}
+    .form-control{height: 40px;}
+    .mamft-desk{display: block;}
+    .mamft-desk-in {padding: 0 0 78px;}
+    .difference-cont p{padding: 6px 0 60px;	}
+    .contact-in{padding: 33px 17px 1388px;}
+
+}
+@media (min-width: 1125px){
+	.true h6{font-size: 6.6rem;line-height: 6.8rem;}
+	.true p{font-size: 1.5rem;line-height: 1.5rem;}
+	.banner-cont > h6{font-size: 1.5rem;line-height: 1.7rem;}
+	.banner-cont {margin-top: -363px;}
+	.difference-cont {padding: 0 0 0 75px;}
+	.difference-in {padding: 50px 111px 0 0;}
+	.passionate-in h3{max-width: 100%;font-size: 1.8rem;line-height: 2.2rem;}
+	.footer-in{padding: 30px 0 63px;}
+	.header-in {padding: 10px 20px;}
+	.contact-in{padding: 33px 17px 1483px;}
+	
+
+
+
+}
+@media (min-width: 1025px){
+
+
+	}
